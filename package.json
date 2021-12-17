@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tikimaniac77/Social-Network-Api.git"
+  },
+  "author": "Tikimaniac77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tikimaniac77/Social-Network-Api/issues"
+  },
+  "homepage": "https://github.com/Tikimaniac77/Social-Network-Api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
+  }
+}
