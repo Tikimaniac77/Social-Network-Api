@@ -1,12 +1,20 @@
 # Social-Network-Api
 
+![Github licence](http://img.shields.io/badge/license-MIT-green.svg)
+
 ## Description
 
 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-Below is a video of the application:
+Below are videos of the applications use in Insomnia:
 
-![social-network-api]()
+- [Insomnia API Users Demo; (Get, Post, Update, Delete):](https://watch.screencastify.com/v/XWr6WtUtctZXPhT2UmZI)
+
+- [Insomnia API Thoughts Demo; (Get, Post, Update, Delete):](https://watch.screencastify.com/v/H80PyBp0sWmiR0PChaIe)
+
+- [Insomnia API Friends Demo; (Post, Delete):](https://watch.screencastify.com/v/1cVZiL0P9NODr9x4JmSG)
+
+- [Insomnia API Reactions Demo; (Post, Delete):](https://watch.screencastify.com/v/bPGVnNu7Zu468HgszuKc)
 
 This application should meet the following criteria:
 
